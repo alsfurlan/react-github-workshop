@@ -70,3 +70,8 @@ form>button:hover {
 .content a:hover {
     transform: translateX(10px);
 }
+
+#error-message {
+    color: #c53030;
+    margin-top: 8px;
+}
